@@ -1,0 +1,13 @@
+{
+  "name": "front_backend_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yorissh79",
+  "license": "ISC",
+  "type": "commonjs"
+}

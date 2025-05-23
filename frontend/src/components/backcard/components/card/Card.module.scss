@@ -1,0 +1,22 @@
+.main {
+  border: 1px solid rgba(128, 128, 128, 0.33);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  div {
+    button {
+      padding: 8px 20px;
+      background-color: blue;
+      border-radius: 10px;
+      border: 1px solid #05054b;
+      cursor: pointer;
+      transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+      &:hover {
+        transition: 0.3s;
+        background-color: transparent;
+      }
+    }
+  }
+}
